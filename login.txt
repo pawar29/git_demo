@@ -1,2 +1,2 @@
 Login validation rules
-Password must be at least 8 characters
+Password must contain special character
